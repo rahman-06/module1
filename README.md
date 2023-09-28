@@ -1,2 +1,2 @@
 # module1
- all ive learnt from module 1
+ All i've learnt from module 1
